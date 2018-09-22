@@ -66,7 +66,7 @@ git clone git@github.com:tbmichael100/gitskills.git
 
 
 # 命令
-git branch
+git branch add by master
 
 git branch xxx
 git checkout xxx
