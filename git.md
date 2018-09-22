@@ -65,5 +65,15 @@ git clone git@github.com:tbmichael100/gitskills.git
 
 
 
+# 命令
+git branch
+
+git branch xxx
+git checkout xxx
+
+git checkout -b xxx
+
+
+
 
 
