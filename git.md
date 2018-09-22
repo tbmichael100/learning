@@ -72,3 +72,5 @@ git branch xxx
 git checkout xxx
 
 git checkout -b xxx
+git merge xxx
+
